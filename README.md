@@ -1,5 +1,5 @@
 # NMAPGPT
-A.I Tool for reading NMAP result files
+A.I Tool for NMAP 
 
 Requirements:
 
